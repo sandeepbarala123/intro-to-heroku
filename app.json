@@ -3,7 +3,7 @@
   "description": "DreamHouse Web App",
   "keywords": [
     "app-cloud"
-  ],
+  ], 
   "repository": "https://github.com/sandeepbarala123/intro-to-heroku",
   "addons": [
     "heroku-postgresql"
